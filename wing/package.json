@@ -1,0 +1,19 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sesv2": "^3.504.0"
+  },
+  "devDependencies": {
+    "@cdktf/provider-aws": "^19.4.0",
+    "nodemailer": "^6.9.9"
+  }
+}

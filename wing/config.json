@@ -1,0 +1,15 @@
+{
+  "email": "maornet@gmail.com",
+  "topics": [
+    {
+      "topicName": "cloud",
+      "displayName": "Cloud",
+      "defaultSubscriptionStatus": "OPT_IN"
+    },
+    {
+      "topicName": "programming-languages",
+      "displayName": "Programming Languages",
+      "defaultSubscriptionStatus": "OPT_OUT"
+    }
+  ]
+}
